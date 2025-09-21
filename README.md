@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 曾经会写程序，现在基本不会了
+#试着再学习一下
+#毕竟是学这个专业的
